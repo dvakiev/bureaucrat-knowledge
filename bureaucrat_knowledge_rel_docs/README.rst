@@ -1,2 +1,0 @@
-Bureaucrat Knowledge Related Documents
-======================================
